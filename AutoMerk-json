@@ -168,7 +168,7 @@
         "age": 5,
         "isActive": true,
         "manufactureDate": "2018-02-14",
-        "imageUrl": "https://example.com/images/nissan-leaf.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image10.jpg",
         "fuelType": "Electric",
         "features": ["ProPILOT Assist", "e-Pedal", "Battery Heating System"],
         "manufacturer": {
