@@ -78,7 +78,7 @@
         "age": 1,
         "isActive": true,
         "manufactureDate": "2022-01-20",
-        "imageUrl": "https://example.com/images/audi-a4.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image5.jpg",
         "fuelType": "Gasoline",
         "features": ["Quattro All-Wheel Drive", "Virtual Cockpit", "Bang & Olufsen Sound System"],
         "manufacturer": {
