@@ -60,7 +60,7 @@
         "age": 3,
         "isActive": true,
         "manufactureDate": "2020-09-10",
-        "imageUrl": "https://example.com/images/bmw-3-series.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image4.jpg",
         "fuelType": "Diesel",
         "features": ["Sport Mode", "Heated Seats", "Navigation System"],
         "manufacturer": {
