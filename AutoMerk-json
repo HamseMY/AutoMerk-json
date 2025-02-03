@@ -150,7 +150,7 @@
         "age": 3,
         "isActive": true,
         "manufactureDate": "2020-04-25",
-        "imageUrl": "https://example.com/images/chevrolet-corvette.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image9.jpg",
         "fuelType": "Gasoline",
         "features": ["V8 Engine", "Carbon Fiber Roof", "Magnetic Ride Control"],
         "manufacturer": {
