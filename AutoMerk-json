@@ -6,7 +6,7 @@
         "age": 2,
         "isActive": true,
         "manufactureDate": "2021-03-15",
-        "imageUrl": "https://example.com/images/tesla-model-s.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image1.jpg",
         "fuelType": "Electric",
         "features": ["Autopilot", "Keyless Entry", "Panoramic Roof"],
         "manufacturer": {
