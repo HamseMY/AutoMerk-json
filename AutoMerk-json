@@ -42,7 +42,7 @@
         "age": 4,
         "isActive": true,
         "manufactureDate": "2019-05-30",
-        "imageUrl": "https://example.com/images/toyota-prius.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image3.jpg",
         "fuelType": "Hybrid",
         "features": ["Eco Mode", "Touchscreen Display", "Lane Assist"],
         "manufacturer": {
