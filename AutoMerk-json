@@ -24,7 +24,7 @@
         "age": 5,
         "isActive": true,
         "manufactureDate": "2018-07-22",
-        "imageUrl": "https://example.com/images/ford-mustang.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image2.jpg",
         "fuelType": "Gasoline",
         "features": ["V8 Engine", "Leather Seats", "Rear Wheel Drive"],
         "manufacturer": {
