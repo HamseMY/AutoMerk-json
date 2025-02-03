@@ -114,7 +114,7 @@
         "age": 4,
         "isActive": true,
         "manufactureDate": "2019-08-12",
-        "imageUrl": "https://example.com/images/vw-golf.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image7.jpg",
         "fuelType": "Gasoline",
         "features": ["DSG Transmission", "Digital Cockpit", "LED Headlights"],
         "manufacturer": {
