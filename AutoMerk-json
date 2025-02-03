@@ -132,7 +132,7 @@
         "age": 2,
         "isActive": true,
         "manufactureDate": "2021-06-18",
-        "imageUrl": "https://example.com/images/mercedes-c-class.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image8.jpg",
         "fuelType": "Diesel",
         "features": ["Ambient Lighting", "Burmester Sound System", "Air Suspension"],
         "manufacturer": {
