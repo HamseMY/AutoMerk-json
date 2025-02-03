@@ -96,7 +96,7 @@
         "age": 6,
         "isActive": true,
         "manufactureDate": "2017-11-05",
-        "imageUrl": "https://example.com/images/honda-civic.jpg",
+        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image6.jpg",
         "fuelType": "Gasoline",
         "features": ["Eco Assist", "Apple CarPlay", "Honda Sensing"],
         "manufacturer": {
