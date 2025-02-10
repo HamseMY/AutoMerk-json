@@ -6,7 +6,7 @@
         "age": 2,
         "isActive": true,
         "manufactureDate": "2021-03-15",
-        "imageUrl": "https://github.com/HamseMY/AutoMerk-json/blob/main/image1.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/HamseMY/AutoMerk-json/refs/heads/main/image1.jpg",
         "fuelType": "Electric",
         "features": ["Autopilot", "Keyless Entry", "Panoramic Roof"],
         "manufacturer": {
